@@ -10,6 +10,7 @@ export interface Housing {
   rating: number;
   status: string;
   type?: string;
+  // yang menggunakan tanda tanya artinya opsional dia digunakan atau tidak
   description?: string;
   postedDays?: number;
 }

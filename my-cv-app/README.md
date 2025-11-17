@@ -57,3 +57,19 @@ Angular CLI does not come with an end-to-end testing framework by default. You c
 ## Additional Resources
 
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+ <!-- NOTED -->
+Pertemua n ke 1: 
+
+ pertemuan ke 3: 
+Home adalah orang tuanya sedangkan lokasi-perumahan adalah anaknya 
+
+Kenapa pake hostinglist bukan filterlist? karena ada fitue filterbytybe ada derective click, jadi kalo di klik akan memanggil filter by byte, contohnya di click villa rumah dll
+
+ngOnInit : ini digunakan apabila perintah dibuka majka akan keluar semua data 
+
+Jika filterlist.lenght maka akan muncul error
+
+Filterlist.length ini akan menampilkan banyak datanya 
+
+ decorator yang ada @
